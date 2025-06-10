@@ -3,14 +3,14 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Mansi Bisht</h1>
-<h3 align="center">A dedicated self-learner and B.Tech graduate.</h3>
+<h3 align="center">A dedicated self-learner and B.Tech student.</h3>
 
 ---
 
 <h3 align="left">👩‍💻 About Me</h3>
 
 <p align="left">
-I'm Mansi Bisht, a B.Tech student and passionate software developer always eager to learn and grow.<br><br>
+I'm Mansi Bisht, a B.Tech in Computer Science and Engineering student and passionate software developer always eager to learn and grow.<br><br>
 
 - 🔭 I’m currently sharpening my skills in Data Structures and Algorithms.<br>
 - 🌱 I’m focused on solving real-world problems through code.<br>
