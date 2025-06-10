@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://github.com/mansicode12/mansicode12/blob/main/your-banner.png" alt="Mansi Bisht Banner" width="100%" />
-</div>
-
 
 <h1 align="center">Hi 👋, I'm Mansi Bisht</h1>
 <h3 align="center">A dedicated self-learner and B.Tech graduate.</h3>
