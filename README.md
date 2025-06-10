@@ -10,10 +10,13 @@
 <h3 align="left">👩‍💻 About Me</h3>
 
 <p align="left">
-I'm Mansi Bisht, a B.Tech graduate and passionate software developer always eager to learn and grow.<br><br>
+I'm Mansi Bisht, a B.Tech student and passionate software developer always eager to learn and grow.<br><br>
+
 - 🔭 I’m currently sharpening my skills in Data Structures and Algorithms.<br>
 - 🌱 I’m focused on solving real-world problems through code.<br>
+- 💡 My interests include Web Development, Android Development, and Artificial Intelligence & Machine Learning.<br>
 - ⚡ In my free time, I explore emerging tech and build personal projects to apply my learning.
+
 </p>
 
 ---
